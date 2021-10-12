@@ -22,7 +22,13 @@ input{
   margin: 8%;
 }
 
-button{
+#remembercheck{
+  display: inline;
+  height: auto;
+  width: auto;
+}
+
+#submitbutton{
   color: white;
   background-color: #00bbf0;
   display: block;
@@ -32,11 +38,3 @@ button{
   border-width: 0;
   margin: auto;
 }
-
-#remembercheck{
-  display: inline;
-  height: auto;
-  width: auto;
-}
-
-
