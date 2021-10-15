@@ -9,12 +9,12 @@ a{
 }
 
 header{
-    
+    text-align: center;
 }
 
 .contact{
     position: relative;
-    top: -60px;
+    top: -100px;
 }
 
 input{
@@ -37,6 +37,48 @@ div{
     display: inline-block;
 }
 
-hr{
-    
+.vertical{
+    border-left: 1px solid gray;
+    height: 120px;
 }
+
+.vertical2{
+    border-left: 1px solid gray;
+    height: 18px;
+    margin: 0px 10px;
+}
+
+form{
+    display: inline-block;
+    position: relative;
+    left: -240px;
+    top: -17px;
+}
+
+nav{
+    position: relative;
+    left: -80px;
+    margin: 20px;
+}
+
+.bodyimage{
+    border-radius: 20px;
+}
+
+.half{
+    display: inline-block;
+    width: 50%;
+    margin: 2% 0% 0% 30%;
+}
+
+figure{
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+}
+
+figcaption{
+    display: block;
+    text-align: center;
+}
+
